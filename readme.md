@@ -1,5 +1,5 @@
-# coast to ledger
-This set of scripts pulls transaction data from coast capital web banking and converts to ledger file format
+# coast csv
+This set of scripts pulls transaction data from coast capital web banking
 
 ## usage
 * requires python3
